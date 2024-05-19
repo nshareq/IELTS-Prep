@@ -13,7 +13,7 @@ Basic grammars are necessary to get started. Topics we should focus on are liste
 ## Modules
 There are four modules. 
 
-### Listening
+1. ### Listening
 |  Section  |  Description  |  Question Types  |
 |  -------- |  --------     |   --------       |
 | Section 1|A conversation between two people in a social or everyday context.|	- Form completion <br> - Multiple choice <br> - Matching <br> - Note completion|
@@ -34,7 +34,7 @@ There are four modules.
 #### Resources:
 
 
-### Reading
+2. ### Reading
 | **Section** | **Description** | **Question Types** |
 | ---- | ---- | ---- |
 | **Passage 1** | A passage related to social survival (e.g., advertisements, timetables).|- Multiple choice <br> - True/False/Not Given <br> - Matching information <br> - Sentence completion|
@@ -59,5 +59,5 @@ There are four modules.
 
 
 
-### Writing
-### Speaking
+3. ### Writing
+4. ### Speaking
