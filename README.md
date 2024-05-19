@@ -31,8 +31,6 @@ There are four modules.
 7.  **Sentence completion:** Complete sentences with words from the listening text.
 8.  **Summary completion:** Complete a summary using words from the listening text.
 
-#### Resources:
-
 
 2. ### Reading
 | **Section** | **Description** | **Question Types** |
@@ -53,8 +51,6 @@ There are four modules.
 9. **Matching Features:** Match a list of features to options based on details in the passage.
 10. **Diagram Label Completion:** Label parts of a diagram based on information from the passage.
 11. **Short-Answer Questions:** Answer questions using a specific number of words taken directly from the passage.
-
-#### Resources:
 
 
 
@@ -79,7 +75,6 @@ Discuss two opposing views on a topic and give your own opinion, supported by re
 9. **Solution Essay (Task 2):** Identify a problem, suggest solutions, and evaluate the effectiveness of these solutions.
 10. **Advantage/Disadvantage Essay (Task 2):** Discuss the advantages and disadvantages of a given issue or situation.
 
-#### Resources:
 
 
 4. ### Speaking
@@ -97,7 +92,6 @@ Discuss two opposing views on a topic and give your own opinion, supported by re
 5. **Analyzing and Discussing Ideas (Part 3):** Engage in a deeper discussion on abstract ideas and issues related to the Part 2 topic, showcasing analytical skills.
 6. **Speculating (Part 3):** Make predictions or hypothesize about future trends or scenarios related to the topic.
 7. **Justifying Opinions (Part 3):** Provide reasons and evidence to support your opinions during the discussion.
-#### Resources:
 
 
 ## Literature
