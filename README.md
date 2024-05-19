@@ -67,6 +67,17 @@ There are four modules.
 |Task 2|	Write an essay in response to a point of view, argument, or problem.	|- Opinion essay <br> - Discussion essay <br> - Solution essay <br> - Advantage/Disadvantage essay|
 
 #### Question Types Explained:
+1. **Describing Trends (Task 1 Academic):** Explain and summarize data presented in a graph, chart, or table, highlighting key trends and differences.
+2. **Summarizing Information (Task 1 Academic):** Summarize and report the main features of a visual representation of information.
+3. **Explaining a Process (Task 1 Academic):** Describe the stages of a process or how something works based on a diagram.
+4. **Formal Letter (Task 1 General Training):** Write a formal letter in response to a given situation, using appropriate language and tone.
+5. **Semi-formal Letter (Task 1 General Training):** Write a semi-formal letter to someone you know in a professional context, balancing formality and personal tone.
+6. **Informal Letter (Task 1 General Training):** Write an informal letter to a friend or family member, using a casual and friendly tone.
+7. **Opinion Essay (Task 2):** Write an essay expressing your opinion on a given topic, providing reasons and examples to support your view.
+8. **Discussion Essay (Task 2):**
+Discuss two opposing views on a topic and give your own opinion, supported by reasons and examples.
+9. **Solution Essay (Task 2):** Identify a problem, suggest solutions, and evaluate the effectiveness of these solutions.
+10. **Advantage/Disadvantage Essay (Task 2):** Discuss the advantages and disadvantages of a given issue or situation.
 
 #### Resources:
 
