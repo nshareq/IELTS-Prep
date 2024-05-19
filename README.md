@@ -30,7 +30,29 @@ There are four modules.
 7.  **Sentence completion:** Complete sentences with words from the listening text.
 8.  **Summary completion:** Complete a summary using words from the listening text.
 
-Resources:
+#### Resources:
+
 ### Reading
+| **Section** | **Description** | **Question Types** |
+| ---- | ---- | ---- |
+| **Passage 1** | A passage related to social survival (e.g., advertisements, timetables).|- Multiple choice <br> - True/False/Not Given <br> - Matching information <br> - Sentence completion|
+|**Passage 2**| A work-related passage (e.g., job descriptions, training materials). | - Matching headings <br> - Multiple choice <br> - Note completion <br> - Summary completion |
+| **Passage 3** | A longer, more complex passage on a general interest topic. | - List selection <br> - Matching features <br> - Diagram label completion <br> - Short-answer questions |
+
+#### Question Types Explained:
+1. **Multiple Choice:** Choose the correct answer from several options based on information in the passage.
+2. **True/False/Not Given:** Determine if statements are true, false, or not given in the passage.
+3. **Matching Information:** Match information or ideas to specific paragraphs or sections of the passage.
+4. **Sentence Completion:** Complete sentences with words from the passage.
+5. **Matching Headings:** Match headings to appropriate paragraphs or sections in the passage.
+6. **Note Completion:** Fill in gaps in a set of notes using words from the passage.
+7. **Summary Completion:** Complete a summary of the passage using words from a given list or from the passage itself.
+8. **List Selection:** Select a number of items from a list based on the passage information.
+9. **Matching Features:** Match a list of features to options based on details in the passage.
+10. **Diagram Label Completion:** Label parts of a diagram based on information from the passage.
+11. **Short-Answer Questions:** Answer questions using a specific number of words taken directly from the passage.
+
+#### Resources:
+
 ### Writing
 ### Speaking
