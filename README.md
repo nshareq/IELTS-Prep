@@ -60,4 +60,9 @@ There are four modules.
 
 
 3. ### Writing
+|Task|	Description	|Types of Writing Tasks|
+|----|----|----|
+|Task 1 (Academic)|	Describe visual information (e.g., graph, chart, table, diagram).	| - Describing trends <br> - Summarizing information <br> - Explaining a process|
+|Task 1 (General Training)	|Write a letter based on a given situation (e.g., request information, explain a situation).|	- Formal letter <br> - Semi-formal letter <br> - Informal letter|
+|Task 2|	Write an essay in response to a point of view, argument, or problem.	|- Opinion essay <br> - Discussion essay <br> - Solution essay <br> - Advantage/Disadvantage essay|
 4. ### Speaking
