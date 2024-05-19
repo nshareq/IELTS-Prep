@@ -90,4 +90,11 @@ Discuss two opposing views on a topic and give your own opinion, supported by re
 |Part 3|	A discussion with the examiner on more abstract ideas and issues related to the Part 2 topic.	|- Analyzing and discussing ideas <br> - Speculating <br> - Justifying opinions|
 
 #### Question Types Explained:
+1. **Answering Personal Questions (Part 1):** Respond to questions about your life, work, studies, hobbies, etc., in a conversational manner.
+2. **Providing Simple Descriptions (Part 1):** Describe everyday items, activities, or experiences briefly and clearly.
+3. **Describing an Event, Object, Person, or Place (Part 2):** Speak for 1-2 minutes on a given topic, covering key points like what, where, when, and how.
+4. **Giving a Narrative (Part 2)** Provide a detailed account or story related to the given topic, demonstrating fluency and coherence.
+5. **Analyzing and Discussing Ideas (Part 3):** Engage in a deeper discussion on abstract ideas and issues related to the Part 2 topic, showcasing analytical skills.
+6. **Speculating (Part 3):** Make predictions or hypothesize about future trends or scenarios related to the topic.
+7. **Justifying Opinions (Part 3):** Provide reasons and evidence to support your opinions during the discussion.
 #### Resources:
