@@ -12,7 +12,7 @@ Basic grammars are necessary to get started. Topics we should focus on are liste
 
 ## Modules
 There are four modules. 
-----
+
 ### Listening
 |  Section  |  Description  |  Question Types  |
 |  -------- |  --------     |   --------       |
@@ -32,7 +32,7 @@ There are four modules.
 8.  **Summary completion:** Complete a summary using words from the listening text.
 
 #### Resources:
-----
+
 
 ### Reading
 | **Section** | **Description** | **Question Types** |
@@ -55,7 +55,9 @@ There are four modules.
 11. **Short-Answer Questions:** Answer questions using a specific number of words taken directly from the passage.
 
 #### Resources:
-----
+
+
+
 
 ### Writing
 ### Speaking
