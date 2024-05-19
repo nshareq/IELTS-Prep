@@ -98,3 +98,6 @@ Discuss two opposing views on a topic and give your own opinion, supported by re
 6. **Speculating (Part 3):** Make predictions or hypothesize about future trends or scenarios related to the topic.
 7. **Justifying Opinions (Part 3):** Provide reasons and evidence to support your opinions during the discussion.
 #### Resources:
+
+
+## Literature
