@@ -65,4 +65,18 @@ There are four modules.
 |Task 1 (Academic)|	Describe visual information (e.g., graph, chart, table, diagram).	| - Describing trends <br> - Summarizing information <br> - Explaining a process|
 |Task 1 (General Training)	|Write a letter based on a given situation (e.g., request information, explain a situation).|	- Formal letter <br> - Semi-formal letter <br> - Informal letter|
 |Task 2|	Write an essay in response to a point of view, argument, or problem.	|- Opinion essay <br> - Discussion essay <br> - Solution essay <br> - Advantage/Disadvantage essay|
+
+#### Question Types Explained:
+
+#### Resources:
+
+
 4. ### Speaking
+|Part|	Description|	Types of Tasks|
+| -------- | -------- | -------- |
+|Part 1|	General questions about the candidate's life, hobbies, work, studies, etc.|	- Answering personal questions <br> - Providing simple descriptions|
+|Part 2|	A long turn where the candidate speaks for 1-2 minutes on a given topic.	|- Describing an event, object, person, or place <br> - Giving a narrative|
+|Part 3|	A discussion with the examiner on more abstract ideas and issues related to the Part 2 topic.	|- Analyzing and discussing ideas <br> - Speculating <br> - Justifying opinions|
+
+#### Question Types Explained:
+#### Resources:
