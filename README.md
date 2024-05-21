@@ -12,7 +12,13 @@ Basic grammars are necessary to get started. Topics we should focus on are liste
 
 ## Modules
 There are four modules. 
-
+```mermaid
+graph
+A(IELTS Test Modules) --> B(Listening)
+A --> C(Reading)
+A --> D(Writing)
+A --> E(Speaking)
+```
 1. ### Listening
 |  Section  |  Description  |  Question Types  |
 |  -------- |  --------     |   --------       |
