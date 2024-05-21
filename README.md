@@ -18,6 +18,8 @@ A(IELTS Test Modules) --> B(Listening)
 A --> C(Reading)
 A --> D(Writing)
 A --> E(Speaking)
+click B "#Listening" "Listening"
+
 ```
 1. ### Listening
 |  Section  |  Description  |  Question Types  |
