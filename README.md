@@ -18,7 +18,6 @@ A(IELTS Test Modules) --> B(Listening)
 A --> C(Reading)
 A --> D(Writing)
 A --> E(Speaking)
-click B "https://github.com/nshareq/IELTS-Prep/blob/main/README.md#listening" "Listening"
 
 ```
 1. ### Listening
